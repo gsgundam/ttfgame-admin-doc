@@ -1220,6 +1220,8 @@ GP Id：默认值为空，该字段代表要修改的平台的GP Id。
 
 ![preview](../img/ttfgame_doc_img_157.png)
 
+<br>
+
 ▶ 各页面介绍
 
 ## 1 控制台

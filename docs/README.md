@@ -1220,6 +1220,8 @@ GP Id：預設值為空，該欄位代表要修改的平臺的GP Id。
 
 ![preview](img/ttfgame_doc_img_157.png)
 
+<br>
+
 ▶ 各頁面介紹
 
 ## 1 控制台
